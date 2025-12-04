@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Arclight",
+    "slug": "Arclight",
+    "version": "1.0.0",
+    "scheme": "arclight",
+    "android": {
+      "package": "com.arclight.app",
+      "permissions": [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        "android.permission.READ_MEDIA_VISUAL_USER_SELECTED",
+        "android.permission.READ_MEDIA_IMAGES",
+        "android.permission.READ_MEDIA_VIDEO",
+        "android.permission.READ_MEDIA_AUDIO"
+      ]
+    },
+    "ios": {
+      "bundleIdentifier": "com.arclight.app"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-web-browser",
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow $(PRODUCT_NAME) to access your photos to save images.",
+          "savePhotosPermission": "Allow $(PRODUCT_NAME) to save photos to your gallery.",
+          "isAccessMediaLocationEnabled": false,
+          "accessMediaLocationPermission": false
+        }
+      ],
+      "expo-router"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "5ea844a7-bd92-4838-8262-402ea11ff35d"
+      }
+    },
+    "owner": "yashx777"
+  }
+}

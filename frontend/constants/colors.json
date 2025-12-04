@@ -1,0 +1,236 @@
+{
+    "light": {
+      "background": {
+        "primary": "#FFFFFF",
+        "secondary": "#F5F5F5",
+        "tertiary": "#EEECE5",
+        "cream": "#E8E5D8",
+        "dark": "#141414",
+        "modal": "#D8D8D8",
+        "overlay": "rgba(0, 0, 0, 0.5)",
+        "overlayLight": "rgba(232, 229, 216, 0.9)",
+        "overlayTransparent": "rgba(0, 0, 0, 0.7)",
+        "button": "#1A1A1A",
+        "buttonHover": "rgba(24, 23, 23, 0.05)"
+      },
+      "text": {
+        "primary": "#1D1B20",
+        "secondary": "#666666",
+        "tertiary": "#999999",
+        "dark": "#1A1A1A",
+        "light": "#FFFFFF",
+        "cream": "#E8E5D8",
+        "gray": "#333333",
+        "grayMedium": "#555555",
+        "grayLight": "#9CA3AF"
+      },
+      "border": {
+        "primary": "#E0E0E0",
+        "secondary": "#D0CDB8",
+        "light": "rgba(255, 255, 255, 0.1)"
+      },
+      "button": {
+        "primary": "#222222",
+        "primaryText": "#FFFFFF",
+        "gradient1": "#1A2340",
+        "gradient2": "#000000",
+        "gradient3": "#0D1525",
+        "arclight": "#4A90E2",
+        "arclightHover": "#4A90E220"
+      },
+      "card": {
+        "background": "#FFFFFF",
+        "border": "#E0E0E0",
+        "thumbnail": "#F5F5F5"
+      },
+      "input": {
+        "background": "#F5F5F5",
+        "border": "#E0E0E0",
+        "placeholder": "#999999"
+      },
+      "status": {
+        "success": "#4CAF50",
+        "error": "#F44336",
+        "warning": "#FF9800",
+        "info": "#2196F3",
+        "errorLight": "#E24A4A",
+        "warningLight": "#E2A84A",
+        "purple": "#9B4AE2",
+        "red": "#EF4444",
+        "blue": "#60A5FA",
+        "blueSky": "#93C5FD"
+      },
+      "icon": {
+        "default": "#687076",
+        "selected": "#0a7ea4",
+        "white": "#FFFFFF",
+        "dark": "#141414"
+      },
+      "special": {
+        "premium": "#60A5FA",
+        "logout": "#EF4444",
+        "yellow": "#FBBF24",
+        "gray": "#6B7280",
+        "grayLight": "#D1D5DB",
+        "grayDark": "#374151",
+        "filter": "#4A4E8D",
+        "filterOverlay": "rgba(232, 232, 232, 0.7)"
+      },
+      "loader": {
+        "stroke1": "#000000",
+        "stroke2": "#7E7E7E",
+        "stroke3": "#686868"
+      },
+      "lighting": {
+        "background": "#E8E8E8",
+        "text": "#555555",
+        "title": "#333333",
+        "button": "#4A4A4A",
+        "buttonText": "#E8E8E8",
+        "icon": "#000000",
+        "iconBg": "#D0D0D0",
+        "shadow": "#000"
+      },
+      "auth": {
+        "background": "#141414",
+        "overlay": "rgba(20, 20, 20, 0.5)",
+        "text": "#FFFFFF",
+        "textDark": "#fff",
+        "textGray": "#3A3A3A",
+        "textLight": "#999999",
+        "button": "#3C44A8",
+        "input": "#000000",
+        "inputBorder": "#FFFFFF",
+        "divider": "#E0E0E0",
+        "disabled": "#E0E0E0",
+        "svg": "#FFFFFFFF"
+      },
+      "splash": {
+        "background": "#141414FF",
+        "particle": "#FFFFFF",
+        "particleShadow": "#FFFFFF",
+        "text": "#FFFFFF",
+        "tagline": "#ECE7EDFF",
+        "glow": "rgba(255, 255, 255, 0.6)",
+        "glowStroke": "rgba(255, 255, 255, 0.9)",
+        "loading": "#4D3B3BFF"
+      }
+    },
+    "dark": {
+      "background": {
+        "primary": "#121212",
+        "secondary": "#1E1E1E",
+        "tertiary": "#252525",
+        "cream": "#1E1E1E",
+        "dark": "#0A0A0A",
+        "modal": "#1E1E1E",
+        "overlay": "rgba(0, 0, 0, 0.85)",
+        "overlayLight": "rgba(30, 30, 30, 0.95)",
+        "overlayTransparent": "rgba(0, 0, 0, 0.7)",
+        "button": "#2A2A2A",
+        "buttonHover": "rgba(255, 255, 255, 0.08)"
+      },
+      "text": {
+        "primary": "#FFFFFF",
+        "secondary": "#B0B0B0",
+        "tertiary": "#808080",
+        "dark": "#0A0A0A",
+        "light": "#FFFFFF",
+        "cream": "#E8E5D8",
+        "gray": "#9CA3AF",
+        "grayMedium": "#B0B0B0",
+        "grayLight": "#808080"
+      },
+      "border": {
+        "primary": "#2A2A2A",
+        "secondary": "#3A3A3A",
+        "light": "rgba(255, 255, 255, 0.1)"
+      },
+      "button": {
+        "primary": "#FFFFFF",
+        "primaryText": "#0A0A0A",
+        "gradient1": "#1A2340",
+        "gradient2": "#000000",
+        "gradient3": "#0D1525",
+        "arclight": "#4A90E2",
+        "arclightHover": "#4A90E220"
+      },
+      "card": {
+        "background": "#1E1E1E",
+        "border": "#2A2A2A",
+        "thumbnail": "#D0D0D0"
+      },
+      "input": {
+        "background": "#1E1E1E",
+        "border": "#2A2A2A",
+        "placeholder": "#808080"
+      },
+      "status": {
+        "success": "#4CAF50",
+        "error": "#EF4444",
+        "warning": "#F59E0B",
+        "info": "#3B82F6",
+        "errorLight": "#EF4444",
+        "warningLight": "#F59E0B",
+        "purple": "#A78BFA",
+        "red": "#EF4444",
+        "blue": "#60A5FA",
+        "blueSky": "#7DD3FC"
+      },
+      "icon": {
+        "default": "#B0B0B0",
+        "selected": "#FFFFFF",
+        "white": "#FFFFFF",
+        "dark": "#0A0A0A"
+      },
+      "special": {
+        "premium": "#60A5FA",
+        "logout": "#EF4444",
+        "yellow": "#FBBF24",
+        "gray": "#7DD3FC",
+        "grayLight": "#3A3A3A",
+        "grayDark": "#4A4A4A",
+        "filter": "#4A90E2",
+        "filterOverlay": "rgba(30, 30, 30, 0.85)"
+      },
+      "loader": {
+        "stroke1": "#FFFFFF",
+        "stroke2": "#B0B0B0",
+        "stroke3": "#808080"
+      },
+      "lighting": {
+        "background": "#1E1E1E",
+        "text": "#B0B0B0",
+        "title": "#FFFFFF",
+        "button": "#2A2A2A",
+        "buttonText": "#FFFFFF",
+        "icon": "#FFFFFF",
+        "iconBg": "#2A2A2A",
+        "shadow": "#000"
+      },
+      "auth": {
+        "background": "#121212",
+        "overlay": "rgba(0, 0, 0, 0.85)",
+        "text": "#FFFFFF",
+        "textDark": "#000000",
+        "textGray": "#B0B0B0",
+        "textLight": "#808080",
+        "button": "#3C44A8",
+        "input": "#FFFFFF",
+        "inputBorder": "#E0E0E0",
+        "divider": "#666666",
+        "disabled": "#3A3A3A",
+        "svg": "#FFFFFFFF"
+      },
+      "splash": {
+        "background": "#121212",
+        "particle": "#FFFFFF",
+        "particleShadow": "#FFFFFF",
+        "text": "#FFFFFF",
+        "tagline": "#E0E0E0",
+        "glow": "rgba(255, 255, 255, 0.6)",
+        "glowStroke": "rgba(255, 255, 255, 0.9)",
+        "loading": "#B0B0B0"
+      }
+    }
+  }

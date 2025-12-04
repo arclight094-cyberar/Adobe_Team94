@@ -1,0 +1,30 @@
+{
+  "name": "adobe_ps_backend",
+  "version": "1.0.0",
+  "description": "Inter iit tech 14.0 adobe ps ",
+  "license": "ISC",
+  "author": "A",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.13.2",
+    "bcrypt": "^6.0.0",
+    "cloudinary": "^1.41.3",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "google-auth-library": "^10.5.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.4",
+    "morgan": "^1.10.1",
+    "multer": "^2.0.2",
+    "multer-storage-cloudinary": "^4.0.0",
+    "nodemailer": "^7.0.10",
+    "nodemon": "^3.1.10",
+    "sharp": "^0.34.5"
+  }
+}
