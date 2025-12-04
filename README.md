@@ -1,6 +1,6 @@
-# Adobe PS Project
+# Arclight - Submission of Team 94
 
-A complete image processing application featuring AI powered enhancement capabilities and layer based editing workflows.
+A complete image processing application featuring AI powered enhancement capabilities and layer based editing workflows, envisioned for 2030.
 
 ## Table of Contents
 
