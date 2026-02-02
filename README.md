@@ -27,7 +27,6 @@ This backend powers an image editing application with two distinct editing workf
 
 **AI Auto Enhancement** leverages Google Gemini AI to intelligently analyze composite canvases and recommend enhancement priorities. The system automatically detects which enhancements are needed and suggests the optimal application order.
 
----
 
 ## Note
 
